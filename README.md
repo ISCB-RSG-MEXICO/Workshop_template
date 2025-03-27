@@ -1,2 +1,5 @@
-# Workshop_template
-Template para la organizacion y documentacion de los curso de RSG-Mexico
+# Template para Workshop de RSG-Mexico
+
+Creadora: Evelia Coss, posdoctoral de la Dra. Alejandra Medina, LIIGH-UNAM
+
+Fecha: 27 de marzo, 2025
